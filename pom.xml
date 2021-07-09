@@ -60,7 +60,7 @@
 
 	<ciManagement>
 		<system>Travis</system>
-		<url>https://travis-ci.org/thorstenwagner/ij-ridgedetection/</url>
+		<url>https://github.com/thorstenwagner/ij-ridgedetection/actions</url>
 	</ciManagement>
 
 	<dependencies>
