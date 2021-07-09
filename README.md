@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/thorstenwagner/ij-ridgedetection.svg?branch=master)](https://travis-ci.org/thorstenwagner/ij-ridgedetection)
+[![](https://github.com/thorstenwagner/ij-ridgedetection/actions/workflows/build-main.yml/badge.svg)](https://github.com/thorstenwagner/ij-ridgedetection/actions/workflows/build-main.yml)
 
 [![DOI](https://zenodo.org/badge/18649/thorstenwagner/ij-ridgedetection.svg)](https://zenodo.org/badge/latestdoi/18649/thorstenwagner/ij-ridgedetection)
 
